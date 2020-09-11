@@ -77,7 +77,7 @@ function EventManager() {
                                     <th>#</th>
                                     <th>Theme</th>
                                     <th>Address</th>
-                                    <th>Date and time</th>
+									<th>Date</th>
                                     <th>Total capacity</th>
                                     <th>Batch</th>
                                     <th className="text-muted">Options</th>
