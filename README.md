@@ -6,7 +6,7 @@ The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be
 
 ### How to test it?
 
-1. Before any step, make sure you have the dependencies installed.
+1. Before any step, make sure you have the dependencies installed. Run:
 
 	composer install
 
@@ -19,7 +19,7 @@ The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be
 	DB_USERNAME=*example_username*
 	DB_PASSWORD=*example_password*
 
-3. Now run the project migrations by running the following command.
+3. Now run the project migrations by running the following command. Run:
 
 	php artisan migrate
 
