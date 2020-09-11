@@ -19,11 +19,11 @@ The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be
 	DB_USERNAME=*example_username*  
 	DB_PASSWORD=*example_password*  
 
-3. Now run the project migrations by running the following command. Run:
+3. Now run the project migrations by running the following command: 
 
 	php artisan migrate
 
-4. At this point you should be able to start the application and test it. To start the development server, run:
+4. At this point you should be able to start the application and test it. To start the development server:
 
 	php artisan serve
 
