@@ -27,5 +27,7 @@ The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be
 
 	php artisan serve
 
+Now the application is hosted at the **localhost:8000** by default: Access it to peform the tests!
+
 
 
