@@ -1,11 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/raulbonifacio/sigcorp-test/screenshot.png" width="400"></a></p>
-
+<p align="center"><a href="https://github.com/raulbonifacio/sigcorp-test" target="_blank"><img src="https://github.com/raulbonifacio/sigcorp-test/blob/master/screenshot.png" width="400"></a></p>
 
 ## SIGCORP - Interview Test
 
-
 The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be used with the MySQL database.
-
 
 ### How to test it?
 
