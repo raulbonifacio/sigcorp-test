@@ -10,14 +10,14 @@ The SIGCORP interview test implemented with React.Js, PHP (with Laravel 8) to be
 
 	composer install
 
-2. First, edit the *.env* file with your database configuration.
+2. First, edit the *.env* file with your database configuration. This file does not exist, but you can use the .env.example as a template and edit the following section according to your database configuration.
 
-	DB_CONNECTION=mysql
-	DB_HOST=127.0.0.1
+	DB_CONNECTION=mysql  
+	DB_HOST=127.0.0.1  
 	DB_PORT=3306
-	DB_DATABASE=*example_database*
-	DB_USERNAME=*example_username*
-	DB_PASSWORD=*example_password*
+	DB_DATABASE=*example_database*  
+	DB_USERNAME=*example_username*  
+	DB_PASSWORD=*example_password*  
 
 3. Now run the project migrations by running the following command. Run:
 
