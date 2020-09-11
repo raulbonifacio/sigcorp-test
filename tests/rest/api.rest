@@ -1,0 +1,36 @@
+// This is a vim-rest-console file.
+
+//Global definitions
+http://localhost:8000/api
+
+-i
+
+Content-type: application/json
+Accept: application/json
+--
+
+--
+GET /events
+
+--
+POST /events
+{
+	"theme": "Test theme",
+	"date": "20/04/2021",
+	"batch": "First original batch one",
+	"address": "My place",
+	"totalCapacity": "100"
+}
+
+--
+PUT /events/10
+{
+	"theme": "Test theme",
+	"date": "20/04/2021",
+	"batch": "batch",
+	"address": "My place",
+	"totalCapacity": "100"
+}
+
+--
+DELETE /events/23
