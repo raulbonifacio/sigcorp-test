@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/raulbonifacio/sigcorp-test" target="_blank"><img src="https://github.com/raulbonifacio/sigcorp-test/blob/master/screenshot.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/raulbonifacio/sigcorp-test" target="_blank"><img src="https://github.com/raulbonifacio/sigcorp-test/blob/master/screenshot.png" width="800"></a></p>
 
 ## SIGCORP - Interview Test
 
